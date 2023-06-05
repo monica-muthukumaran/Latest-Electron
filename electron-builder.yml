@@ -1,0 +1,7 @@
+appId: com.example.demopoc
+publish:
+  provider: github
+  token: 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
+  host: infygithub.ad.infosys.com/
+  owner: monica-muthukumaran/infygithub.ad.infosys.com
+  repo: Electron
